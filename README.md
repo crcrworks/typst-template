@@ -24,6 +24,8 @@
   [Name Here],
 )
 ```
+<img width="747" height="1055" alt="Screenshot 2025-07-13 at 03-34-24 Typst Preview" src="https://github.com/user-attachments/assets/2539f43f-53cb-4749-acbd-4691bab4b575" />
+
 
 ## Installation
 
