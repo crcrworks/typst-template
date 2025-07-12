@@ -1,0 +1,7 @@
+[package]
+name = "template"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["CRCR"]
+license = "MIT"
+description = "Template for typst projects"
